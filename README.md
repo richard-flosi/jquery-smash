@@ -1,5 +1,5 @@
 # jQuery smash event #
-A keyboard smash event for jQuery allows you to detech when the keyboard was smashed.
+A keyboard smash event for jQuery allows you to detect when the keyboard was smashed.
 
 ## Example ##
     <input id="smash" type="text" value="" autocomplete="off" />
